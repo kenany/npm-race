@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@kenan/b": "file:b",
+    "@kenan/c": "file:c",
+    "@kenan/d": "file:d",
+    "@kenan/g": "file:g",
+    "@kenan/i": "file:i",
+    "@kenan/j": "file:j",
+    "dom-delegator": "^9.2.0",
+    "geval": "^2.1.1",
+    "global": "^4.2.1",
+    "main-loop": "^2.3.0",
+    "normalize.css": "^3.0.1",
+    "observ": "^0.2.0",
+    "observ-struct": "^5.0.1",
+    "value-event": "^2.3.0"
+  }
+}

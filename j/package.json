@@ -1,0 +1,13 @@
+{
+  "name": "@kenan/j",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@kenan/c": "file:../c",
+    "@kenan/e": "file:../e",
+    "@kenan/h": "file:../h",
+    "clickerheroes-format": "^1.0.3",
+    "value-event": "^3.2.0",
+    "virtual-hyperscript": "^4.6.0"
+  }
+}

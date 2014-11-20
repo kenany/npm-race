@@ -1,0 +1,8 @@
+{
+  "name": "@kenan/g",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@kenan/h": "file:../h"
+  }
+}

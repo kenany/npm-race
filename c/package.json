@@ -1,0 +1,11 @@
+{
+  "name": "@kenan/c",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@kenan/a": "file:../a",
+    "alea-deck": "^1.1.4",
+    "alea-random": "^1.1.1",
+    "prr": "^1.0.1"
+  }
+}

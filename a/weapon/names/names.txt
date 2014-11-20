@@ -1,0 +1,268 @@
+Abyssal Axe
+Abyssal Sceptre
+Ambusher
+Ancestral Club
+Ancient Sword
+Antique Rapier
+Apex Rapier
+Arming Axe
+Auric Mace
+Awl
+Barbed Club
+Baselard
+Basket Rapier
+Bastard Sword
+Battered Foil
+Battle Hammer
+Battle Sword
+Bladed Mace
+Blinder
+Blood Sceptre
+Boarding Axe
+Bone Bow
+Boot Blade
+Boot Knife
+Brass Maul
+Broad Axe
+Broad Sword
+Bronze Sceptre
+Burnished Foil
+Butcher Axe
+Butcher Knife
+Butcher Sword
+Carnal Sceptre
+Carved Wand
+Carving Knife
+Cat's Paw
+Ceremonial Axe
+Ceremonial Mace
+Chest Splitter
+Citadel Bow
+Cleaver
+Coiled Staff
+Colossus Mallet
+Composite Bow
+Compound Bow
+Copper Kris
+Copper Sword
+Corroded Blade
+Corsair Sword
+Crude Bow
+Crystal Sceptre
+Crystal Wand
+Cutlass
+Darkwood Sceptre
+Death Bow
+Decimation Bow
+Decorative Axe
+Decurve Bow
+Demon Dagger
+Demon's Horn
+Despot Axe
+Double Axe
+Dragonbone Rapier
+Dread Maul
+Dream Mace
+Driftwood Club
+Driftwood Maul
+Driftwood Sceptre
+Driftwood Wand
+Dusk Blade
+Eagle Claw
+Elder Sword
+Elegant Foil
+Elegant Sword
+Engraved Greatsword
+Engraved Wand
+Estoc
+Etched Greatsword
+Eternal Sword
+Eye Gouger
+Ezomyte Axe
+Ezomyte Blade
+Ezomyte Dagger
+Ezomyte Staff
+Fancy Foil
+Faun's Horn
+Fiend Dagger
+Flanged Mace
+Flaying Knife
+Footman Sword
+Foul Staff
+Fright Claw
+Fright Maul
+Gavel
+Gemstone Sword
+Gilded Axe
+Gladius
+Glass Shank
+Gnarled Branch
+Goat's Horn
+Golden Kris
+Gouger
+Graceful Sword
+Great Mallet
+Great White Claw
+Grinning Fetish
+Grove Bow
+Gut Ripper
+Gutting Knife
+Harbinger Bow
+Harpy Rapier
+Headman's Sword
+Headsman Axe
+Hellion's Paw
+Highborn Bow
+Highborn Staff
+Highland Blade
+Imbued Wand
+Imp Dagger
+Imperial Bow
+Imperial Claw
+Imperial Maul
+Imperial Skean
+Imperial Staff
+Infernal Axe
+Infernal Sword
+Iron Sceptre
+Iron Staff
+Ivory Bow
+Jade Chopper
+Jade Hatchet
+Jagged Foil
+Jasper Axe
+Jasper Chopper
+Jeweled Foil
+Judgement Staff
+Karui Axe
+Karui Chopper
+Karui Maul
+Karui Sceptre
+Labrys
+Lathi
+Lead Sceptre
+Legion Hammer
+Legion Sword
+Lion Sword
+Long Bow
+Long Staff
+Longsword
+Maelström Staff
+Mallet
+Maraketh Bow
+Meatgrinder
+Midnight Blade
+Military Staff
+Nailed Fist
+Nightmare Mace
+Noble Axe
+Noble Claw
+Ochre Sceptre
+Omen Wand
+Opal Sceptre
+Opal Wand
+Ornate Mace
+Ornate Sword
+Pecoraro
+Pernarch
+Petrified Club
+Phantom Mace
+Piledriver
+Plated Maul
+Platinum Kris
+Platinum Sceptre
+Poignard
+Poleaxe
+Prehistoric Claw
+Primeval Rapier
+Primitive Staff
+Primordial Staff
+Prophecy Wand
+Quarterstaff
+Quartz Sceptre
+Quartz Wand
+Ranger Bow
+Reaver Axe
+Reaver Sword
+Recurve Bow
+Ritual Sceptre
+Rock Breaker
+Royal Axe
+Royal Bow
+Royal Sceptre
+Royal Skean
+Royal Staff
+Rusted Hatchet
+Rusted Spike
+Rusted Sword
+Sabre
+Sage Wand
+Sekhem
+Serpent Wand
+Serpentine Staff
+Serrated Foil
+Shadow Axe
+Shadow Sceptre
+Sharktooth Claw
+Short Bow
+Siege Axe
+Skean
+Skinning Knife
+Slaughter Knife
+Sledgehammer
+Sniper Bow
+Sparkling Claw
+Spectral Axe
+Spectral Sword
+Spiked Club
+Spiked Maul
+Spine Bow
+Spiny Maul
+Spiraled Foil
+Spiraled Wand
+Steelhead
+Stiletto
+Stone Axe
+Stone Hammer
+Sundering Axe
+Tempered Foil
+Tenderizer
+Terror Claw
+Terror Maul
+Thicket Bow
+Thorn Rapier
+Thresher Claw
+Throat Stabber
+Tiger Sword
+Tiger's Paw
+Timber Axe
+Timeworn Claw
+Tomahawk
+Tornado Wand
+Totemic Maul
+Tribal Club
+Tribal Maul
+Twilight Blade
+Two-Handed Sword
+Tyrant's Sekhem
+Vaal Axe
+Vaal Blade
+Vaal Claw
+Vaal Greatsword
+Vaal Hatchet
+Vaal Rapier
+Vaal Sceptre
+Variscite Blade
+Vile Staff
+Void Axe
+Void Sceptre
+War Axe
+War Hammer
+War Sword
+Whalebone Rapier
+Woodful Staff
+Woodsplitter
+Wraith Axe
+Wraith Sword
+Wrist Chopper
+Wyrmbone Rapier

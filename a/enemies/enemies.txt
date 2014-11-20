@@ -1,0 +1,54 @@
+Anarchist
+Ape
+Archer
+Arsonist
+Bandit
+Bat
+Beast
+Berserker
+Cannibal
+Crawling Torso
+Cultist
+Dark Demon
+Demon
+Dragon
+Dwarf
+Ghost
+Ghoul
+Goblin
+Golem
+Guard
+Harpie
+Hornet
+Hydra
+Imp
+Leech
+Leviathan
+Mage
+Manticore
+Minotaur
+Mummy
+Necromancer
+Orc
+Ogre
+Oppressor
+Phantom
+Pirate
+Reaper
+Roach
+Rock Golem
+Savage Beast
+Serpent
+Siren
+Skeleton
+Skeleton Archer
+Slime
+Snake
+Spider
+Toad
+Troll
+Vampire
+Witch
+Worm
+Wraith
+Zombie
